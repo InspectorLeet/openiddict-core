@@ -4,7 +4,9 @@
     Note: for more information on how to add a new web provider integration, visit
     https://documentation.openiddict.com/guides/contributing-a-new-web-provider.html.
   -->
-
+<Provider Name="Personify">
+  <Environment Issuer="https://login.personifygo.com/stageaalas/" />
+</Provider>
   <!--
                                                       ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
                                                       █ ▄▄▀██ ▄▄▀██ ▄▄▄██ ▄▄▄ ██
